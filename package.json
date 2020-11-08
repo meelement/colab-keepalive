@@ -1,0 +1,23 @@
+{
+  "name": "colab-keepalive",
+  "version": "1.0.0",
+  "description": "Keep Google Colab sessions alive using multiple Google accounts",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheepymeh/colab-keepalive.git"
+  },
+  "author": "sheepymeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheepymeh/colab-keepalive/issues"
+  },
+  "homepage": "https://github.com/sheepymeh/colab-keepalive#readme"
+}
